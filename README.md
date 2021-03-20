@@ -1,5 +1,5 @@
 La viborita: 
-En este proyecto quise darle un giro a lo que venia enfocado y entonces encontre un video donde usando javascript se podia crear el clasico juego que todos jugamos alguna vez.
+En este proyecto quise darle un giro a lo que venia enfocado y entonces encontré un video donde usando javascript se podía crear el clásico juego que todos jugamos alguna vez.
 
-  visualizalo! https://riro07.github.io/Game-javascript/.
+  visualízalo! https://riro07.github.io/Game-javascript/.
   
